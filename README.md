@@ -1,3 +1,4 @@
+<img source="(https://komarev.com/ghpvc/?username=therealnv6)">
 # therealnv6
 - [x] Low-level enthusiast, enjoys working on games, game engines, databases, backends, emulators, and more. 
 - [x] Interested in voxels and emulation.
