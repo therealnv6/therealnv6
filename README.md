@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Riven, from the Netherlands<br><br>- 🔭 I’m working as a game developer<br>- ⚡ In my free time I enjoy playing video games<br>- 🔗 I also use [GitLab](https://git.pursonal.dev/riven)!</p>
+<p align="left">I'm Riven, from the Netherlands<br><br>- 🔭 I’m working as a game developer<br>- ⚡ In my free time I enjoy playing video games<br>- 🔗 I also use <a href="https://git.pursonal.dev/riven">GitLab</a>!</p>
 
 ###
 
