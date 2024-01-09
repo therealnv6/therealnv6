@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=therealnv6.therealnv6&"  />
+  <img src="https://komarev.com/ghpvc/?username=therealnv6"  />
 </div>
 
 ###
