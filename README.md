@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">i'm mia, from the netherlands 🇳🇱<br><br></p>
+<p align="left">from the netherlands 🇳🇱<br>currently focusing on game dev<br>/p>
 
 ###
 
