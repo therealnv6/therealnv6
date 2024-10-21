@@ -23,7 +23,9 @@
 
 ###
 
-<p align="left">from the netherlands 🇳🇱<br>currently focusing on game dev<br>/p>
+- from the netherlands 🇳🇱
+- currently focusing on game dev in rust
+- looking to experiment with zig
 
 ###
 
